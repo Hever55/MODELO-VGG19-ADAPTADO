@@ -1,3 +1,6 @@
+##  Estructura del Dataset
+
+El dataset debe estar organizado en carpetas por clase, compatible con `flow_from_directory`:
 
 - **Tamaño de imagen**: 256x256 px  
 - **Ubicación en Google Drive**:
