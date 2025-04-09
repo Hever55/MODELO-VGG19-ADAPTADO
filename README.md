@@ -96,7 +96,7 @@ Este proyecto fue desarrollado y probado en **Google Colab**. Requiere las sigui
 
 ---
 
-## 📌 Autor
+##  Autor
 
 Este proyecto forma parte de un estudio sobre clasificación visual de semillas.  
 **¡Recuerda que la vida es valiosa!** – *Memento Mori*
